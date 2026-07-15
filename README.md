@@ -10,8 +10,7 @@ Welcome to my engineering portfolio. Here you will find projects related to Civi
 
 ### 🏢 BIM & CAD Projects
 - 🏗️ [Residential Building - Revit BIM Model](https://github.com/Carlosnino987/Revit-Projects)
-- 📐 [Road Design using Civil 3D](https://github.com/yourusername/project5)
-- 📋 [Construction Drawings in AutoCAD](https://github.com/yourusername/project6)
+- 📐 [Road Design using Civil 3D](https://github.com/Carlosnino987/GeometricDesing)
 
 ### 🚧 Construction Supervision
 - 👷 [Construction Progress Reports](https://github.com/Carlosnino987/BIMMethodologies)
