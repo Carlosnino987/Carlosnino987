@@ -1,16 +1,56 @@
-## Hi there 👋
+## Hi, I'm Carlos Niño
+Welcome to my engineering portfolio. Here you will find projects related to Civil Engineering, BIM, GIS, CAD drafting, infrastructure, and construction supervision.
 
-<!--
-**Carlosnino987/Carlosnino987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗️ Civil Engineering Portfolio
 
-Here are some ideas to get you started:
+### 🌍 GIS & Geospatial Analysis
+- 🗺️ [Natural Hazard Assessment using QGIS](https://github.com/yourusername/project1)
+- 🌄 [Geotechnical Risk Mapping](https://github.com/yourusername/project2)
+- 🛰️ [Environmental Hazard Maps](https://github.com/yourusername/project3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 BIM & CAD Projects
+- 🏗️ [Residential Building - Revit BIM Model](https://github.com/yourusername/project4)
+- 📐 [Road Design using Civil 3D](https://github.com/yourusername/project5)
+- 📋 [Construction Drawings in AutoCAD](https://github.com/yourusername/project6)
+
+### 🚧 Construction Supervision
+- 👷 [Gas Distribution Network Project](https://github.com/yourusername/project7)
+- 📊 [Construction Progress Reports](https://github.com/yourusername/project8)
+- 📝 [As-Built Documentation](https://github.com/yourusername/project9)
+
+### 🌉 Structural Engineering
+- 🏛️ [Structural Analysis using Robot Structural Analysis](https://github.com/yourusername/project10)
+- 🧮 [ETABS Structural Modeling](https://github.com/yourusername/project11)
+
+### 📚 Academic Projects
+- 🎓 [Capstone Civil Engineering Project](https://github.com/yourusername/project12)
+- 🏅 [Award-Winning Revit Project](https://github.com/yourusername/project13)
+
+---
+
+## 📄 Technical Reports
+
+- 📖 Geotechnical Investigation Reports
+- 🌎 GIS Analysis Reports
+- 🏗️ Construction Inspection Reports
+- 📋 Engineering Documentation
+
+---
+
+## 📜 Certifications
+
+- 🏗️ Autodesk Revit
+- 📐 Autodesk Civil 3D
+- 🖥️ AutoCAD
+- 🌍 QGIS
+- 📊 Robot Structural Analysis
+
+---
+
+## 📫 Connect with me
+
+- <a href="https://www.linkedin.com/in/carlos-andres-nino/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30">
+</a> 
+
+- 📧 Email: carlosanino36@gmail.com
