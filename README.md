@@ -18,8 +18,7 @@ Welcome to my engineering portfolio. Here you will find projects related to Civi
 - 📝 [As-Built Documentation](https://github.com/yourusername/project9)
 
 ### 🌉 Structural Engineering
-- 🏛️ [Structural Analysis using Robot Structural Analysis](https://github.com/yourusername/project10)
-- 🧮 [ETABS Structural Modeling](https://github.com/yourusername/project11)
+- 🧮 [ETABS Structural Modeling](https://github.com/Carlosnino987/StructuralModeling-ETABS)
 
 ### 📚 Academic Projects
 - 🎓 [Capstone Civil Engineering Project](https://github.com/yourusername/project12)
