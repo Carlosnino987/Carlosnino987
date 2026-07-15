@@ -14,7 +14,7 @@ Welcome to my engineering portfolio. Here you will find projects related to Civi
 - 📋 [Construction Drawings in AutoCAD](https://github.com/yourusername/project6)
 
 ### 🚧 Construction Supervision
-- 👷 [Construction Progress Reports]([https://github.com/yourusername/project7](https://github.com/Carlosnino987/BIMMethodologies))
+- 👷 [Construction Progress Reports](https://github.com/Carlosnino987/BIMMethodologies)
 - 📝 [As-Built Documentation](https://github.com/yourusername/project9)
 
 ### 🌉 Structural Engineering
