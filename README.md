@@ -2,7 +2,7 @@
 Welcome to my engineering portfolio. Here you will find projects related to Civil Engineering, BIM, GIS, CAD drafting, infrastructure, and construction supervision.
 
 <p align="center">
-Geology Map: <br/>
+ <br/>
 <img src="https://imgur.com/JJozUhV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
