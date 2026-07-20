@@ -4,7 +4,7 @@ Welcome to my engineering portfolio. Here you will find projects related to Civi
 ## 🏗️ Civil Engineering Portfolio
 
 ### 🌍 GIS & Geospatial Analysis
-- 🌄 [Geotechnical Risk Mapping](https://github.com/yourusername/project2)
+- 🌄 [Geotechnical Risk Mapping](https://github.com/Carlosnino987/GISTools)
 
 ### 🏢 BIM & CAD Projects
 - 🏗️ [Residential Building - Revit BIM Model](https://github.com/Carlosnino987/Revit-Projects)
@@ -36,6 +36,7 @@ Welcome to my engineering portfolio. Here you will find projects related to Civi
 - 🌍 QGIS
 - 📊 Robot Structural Analysis
 
+  All my certifications are available on my LinkedIn profile.
 ---
 
 ## 📫 Connect with me
