@@ -4,24 +4,18 @@ Welcome to my engineering portfolio. Here you will find projects related to Civi
 ## 🏗️ Civil Engineering Portfolio
 
 ### 🌍 GIS & Geospatial Analysis
-- 🗺️ [Natural Hazard Assessment using QGIS](g)
 - 🌄 [Geotechnical Risk Mapping](https://github.com/yourusername/project2)
-- 🛰️ [Environmental Hazard Maps](https://github.com/yourusername/project3)
 
 ### 🏢 BIM & CAD Projects
 - 🏗️ [Residential Building - Revit BIM Model](https://github.com/Carlosnino987/Revit-Projects)
 - 📐 [Road Design using Civil 3D](https://github.com/Carlosnino987/GeometricDesing)
 
 ### 🚧 Construction Supervision
-- 👷 [Construction Progress Reports](https://github.com/Carlosnino987/BIMMethodologies)
-- 📝 [As-Built Documentation](https://github.com/yourusername/project9)
+- 👷 [BIM methodologies and Constructions reports](https://github.com/Carlosnino987/BIMMethodologies)
 
 ### 🌉 Structural Engineering
 - 🧮 [ETABS Structural Modeling](https://github.com/Carlosnino987/StructuralModeling-ETABS)
 
-### 📚 Academic Projects
-- 🎓 [Capstone Civil Engineering Project](https://github.com/yourusername/project12)
-- 🏅 [Award-Winning Revit Project](https://github.com/yourusername/project13)
 
 ---
 
